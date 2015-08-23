@@ -1,0 +1,7 @@
+#source folder
+- lua
+- mapsrc
+- modelsrc
+- soundsrc
+#output folder
+- dunno
